@@ -8,8 +8,8 @@
 // @grant        GM_addStyle
 // @grant        GM_log
 // @license      WTFPL
-// @downloadURL https://update.greasyfork.org/scripts/544355/Pok%C3%A9mon%20Showdown%20Replay%20Scouter%20%E6%B1%89%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA.user.js
-// @updateURL https://update.greasyfork.org/scripts/544355/Pok%C3%A9mon%20Showdown%20Replay%20Scouter%20%E6%B1%89%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA.meta.js
+// @downloadURL https://github.com/AnsonIsTheBest/Scripts/raw/refs/heads/main/Pok%C3%A9mon%20Showdown%20Replay%20Scouter%20%E6%B1%89%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA-1.2.1.user.js
+// @updateURL https://github.com/AnsonIsTheBest/Scripts/raw/refs/heads/main/Pok%C3%A9mon%20Showdown%20Replay%20Scouter%20%E6%B1%89%E5%8C%96%E4%B8%8E%E5%A2%9E%E5%BC%BA-1.2.1.user.js
 // ==/UserScript==
 
 (function() {
